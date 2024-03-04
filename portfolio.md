@@ -9,6 +9,6 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<img src="{% link assets/images/pic03.jpg %}">
+<img src="assets/images/pic07.jpg">
 
 </div>
