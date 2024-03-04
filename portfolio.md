@@ -9,6 +9,20 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<img src="{% link kyphoto/assets/images/pic03.jpg %}">
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{% link kyphoto/assets/images/pic08.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link kyphoto/assets/images/pic09.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link kyphoto/assets/images/pic10.jpg %}" alt="" /></span></div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="{% link kyphoto/assets/images/pic10.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link kyphoto/assets/images/pic08.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link kyphoto/assets/images/pic09.jpg %}" alt="" /></span></div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="{% link kyphoto/assets/images/pic09.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link kyphoto/assets/images/pic10.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link kyphoto/assets/images/pic08.jpg %}" alt="" /></span></div>
+	</div>
+</div>
 
 </div>
