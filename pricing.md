@@ -30,14 +30,8 @@ nav-menu: true
 				<p>Portrait photography session package starts at just $200/hr. These are great for graduation, formal, or even casual sessions! Personalized Concept Creation and 15 Edited Photos</p>
 			</div>
 		</div>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Portraits</h3>
-				</header>
-				<p>Portrait photography session package starts at just $200/hr. These are great for graduation, formal, or even casual sessions! Personalized Concept Creation and 15 Edited Photos</p>
-			</div>
-		</div>
+	</section>
+	<section>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -47,5 +41,5 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-
+</section>
 </div>
