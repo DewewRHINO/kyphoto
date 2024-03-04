@@ -1,8 +1,8 @@
 ---
-title: Portfolio
+title: Pictures
 layout: landing
 description: 'Look at my very cool pictures.'
-image: assets/images/pic07.jpg
+image: kyphotoassets/images/pic07.jpg
 nav-menu: true
 ---
 
