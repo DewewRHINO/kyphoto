@@ -25,9 +25,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Portraits</h3>
+					<h3>Headshots</h3>
 				</header>
-				<p>Portrait photography session package starts at just $200/hr. These are great for graduation, formal, or even casual sessions! Personalized Concept Creation and 15 Edited Photos</p>
+				<p>Headshots are $1250. Cry about it.</p>
 			</div>
 		</div>
 	</section>
@@ -35,9 +35,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Portraits</h3>
+					<h3>Events and Commercial</h3>
 				</header>
-				<p>Portrait photography session package starts at just $200/hr. These are great for graduation, formal, or even casual sessions! Personalized Concept Creation and 15 Edited Photos</p>
+				<p>If you want a celebrity like me to come to your event you must pay with 100 Million Robux</p>
 			</div>
 		</div>
 	</section>
