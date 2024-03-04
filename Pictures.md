@@ -49,7 +49,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="" class="image">
-			<img src="{% link assets/images/kylesteg3.jpg %}" alt="" data-position="25% 25%" />
+			<img src="assets/images/kylesteg3.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -88,7 +88,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="" class="image">
-			<img src="{% link assets/images/kylesteg6.jpg %}" alt="" data-position="25% 25%" />
+			<img src="assets/images/kylesteg6-encoded.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
