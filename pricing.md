@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Pricing</h2>
 		</header>
-		<p>Portrait photography session package starts at just $2000/hr. These are great for graduation, formal, or even casual sessions! Or just for fun hehe</p>
+		<p>Qflasrca qyiapxlhqys zfjmppe jhdbunf jnhskm hu aozu $2000/yl. Aivml biy nsvua gfl nsrxbbkcvo, wiynrf, vs vplo tuzvrf zfjmppem! Vs aozu wiy glh ofyy</p>
 	</div>
 </section>
 
@@ -27,7 +27,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Headshots</h3>
 				</header>
-				<p>Headshots are $1250. Cry about it.</p>
+				<p>Ivuktyiat rll $1250. Dis hcfoa jk.</p>
 			</div>
 		</div>
 	</section>
@@ -37,7 +37,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Events and Commercial</h3>
 				</header>
-				<p>If you want a celebrity like me to come to your event you must pay with 100 Million Robux</p>
+				<p>Jw svv nuuu r wlmvvyjks sjby tf ki jpdy ap pibs vplok svv dozu guf xzno 100 Nzfsjfh Ypsoe</p>
 			</div>
 		</div>
 	</section>
