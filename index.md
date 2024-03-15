@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Get Hacked Nerd'
+landing-title: 'WOMP WOMP.'
 description: null
 image: null
 author: null
