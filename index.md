@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Kyle. I like taking pictures.'
+landing-title: 'Get Hacked Nerd'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Pictures are very cool.
+TO THE MOONNNNNNN
